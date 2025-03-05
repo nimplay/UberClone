@@ -18,7 +18,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/MoveFast.png",
         "backgroundColor": "#404D73"
-      }
+      },
+      "package": "com.anonymous.MoveFast"
     },
     "web": {
       "bundler": "metro",
@@ -35,7 +36,8 @@
           "resizeMode": "contain",
           "backgroundColor": "#404D73"
         }
-      ]
+      ],
+      "expo-secure-store"
     ],
     "experiments": {
       "typedRoutes": true
